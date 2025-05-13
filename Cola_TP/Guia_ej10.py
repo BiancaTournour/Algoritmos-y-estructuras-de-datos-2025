@@ -76,8 +76,7 @@ def notis_por_horario(notificaciones):
     restaurar_cola(notificaciones, pila_aux)  
     print("notificaciones entre las 11:43 y las 15:57")
     pila_temp.show()
-    print("cantidad:")
-    print(contador)  
+    print("cantidad:", {contador})  
 
 #ejecucion
 eliminar_noti(notificaciones) 
