@@ -1,0 +1,42 @@
+criaturas = [
+    {"criatura": "Ceto", "derrotado_por": None, "capturada": "Poseidón", "descripcion": "Monstruo marino primordial de la mitología griega."},
+    {"criatura": "Tifón", "derrotado_por": "Zeus", "capturada": "Zeus", "descripcion": "Gigantesco monstruo con cientos de cabezas de serpiente."},
+    {"criatura": "Equidna", "derrotado_por": "Argos Panoptes", "capturada": "Argos Panoptes", "descripcion": "Criatura mitad mujer, mitad serpiente, madre de muchos monstruos."},
+    {"criatura": "Dino", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Criatura legendaria de gran tamaño y fuerza."},
+    {"criatura": "Pefredo", "derrotado_por": None, "capturada": "Ares", "descripcion": "Espíritu o demonio relacionado con la guerra y la muerte."},
+    {"criatura": "Enio", "derrotado_por": None, "capturada": "Ares", "descripcion": "Deidad de la guerra y la destrucción."},
+    {"criatura": "Escila", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Monstruo marino con múltiples cabezas que devora marineros."},
+    {"criatura": "Caribdis", "derrotado_por": "Láquesis", "capturada": "Láquesis", "descripcion": "Remolino gigante que engulle barcos en el mar."},
+    {"criatura": "Euríale", "derrotado_por": None, "capturada": "Perseo", "descripcion": "Una de las Gorgonas, hermana de Medusa."},
+    {"criatura": "Esteno", "derrotado_por": "Minotauro de Creta", "capturada": "Minotauro de Creta", "descripcion": "Una de las Gorgonas, con mirada petrificante."},
+    {"criatura": "Medusa", "derrotado_por": "Perseo", "capturada": "Perseo", "descripcion": "Gorgona famosa cuya mirada convierte a la gente en piedra."},
+    {"criatura": "Ladón", "derrotado_por": "Heracles", "capturada": "Heracles", "descripcion": "Dragón que custodiaba las manzanas de oro de las Hespérides."},
+    {"criatura": "Águila del Cáucaso", "derrotado_por": None, "capturada": "Zeus", "descripcion": "Ave gigante que torturaba a Prometeo devorándole el hígado."},
+    {"criatura": "Quimera", "derrotado_por": "Belerofonte", "capturada": "Belerofonte", "descripcion": "Monstruo con cabeza de león, cuerpo de cabra y cola de serpiente."},
+    {"criatura": "Hidra de Lerna", "derrotado_por": "Heracles", "capturada": "Heracles", "descripcion": "Serpiente acuática con múltiples cabezas; al cortar una, crecían dos más."},
+    {"criatura": "León de Nemea", "derrotado_por": "Heracles", "capturada": "Heracles", "descripcion": "León invulnerable de la mitología griega."},
+    {"criatura": "Esfinge", "derrotado_por": "Edipo", "capturada": "Edipo", "descripcion": "Monstruo con cuerpo de león y cabeza de mujer que planteaba enigmas."},
+    {"criatura": "Dragón de la Cólquida", "derrotado_por": None, "capturada": "Jasón", "descripcion": "Guardian del vellocino de oro."},
+    {"criatura": "Cerda de Cromión", "derrotado_por": "Teseo", "capturada": "Teseo", "descripcion": "Cerda gigante que aterrorizaba la región de Cromión."},
+    {"criatura": "Otro", "derrotado_por": "Heracles", "capturada": "Heracles", "descripcion": "Criatura indefinida en las leyendas griegas."},
+    {"criatura": "Toro de Creta", "derrotado_por": "Teseo", "capturada": "Heracles", "descripcion": "Toro salvaje enviado por Poseidón a Creta."},
+    {"criatura": "Jabalí de Calidón", "derrotado_por": "Atalanta", "capturada": "Atalanta", "descripcion": "Jabalí gigante enviado por Artemisa a Calidón."},
+    {"criatura": "Carcinos", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Cangrejo gigante que ayudó a la Hidra de Lerna."},
+    {"criatura": "Gerión", "derrotado_por": "Heracles", "capturada": "Heracles", "descripcion": "Gigante de tres cuerpos que guardaba su ganado."},
+    {"criatura": "Cloto", "derrotado_por": None, "capturada": "Moira", "descripcion": "Una de las Moiras que hila el hilo de la vida."},
+    {"criatura": "Átropos", "derrotado_por": None, "capturada": "Moira", "descripcion": "Una de las Moiras que corta el hilo de la vida."},
+    {"criatura": "Harpías", "derrotado_por": None, "capturada": "Zetes", "descripcion": "Criaturas aladas que robaban y atormentaban a los humanos."},
+    {"criatura": "Argos Panoptes", "derrotado_por": "Hermes", "capturada": "Hermes", "descripcion": "Gigante con cien ojos, siempre vigilante."},
+    {"criatura": "Aves del Estínfalo", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Aves carnívoras con picos de bronce; Heracles las derrotó a varias."},
+    {"criatura": "Talos", "derrotado_por": "Medea", "capturada": "Medea", "descripcion": "Autómata de bronce que protegía Creta."},
+    {"criatura": "Pitón", "derrotado_por": "Apolo", "capturada": "Apolo", "descripcion": "Serpiente gigante que custodiaba Delfos."},
+    {"criatura": "Cierva de Cerinea", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Cierva sagrada de Artemisa, extremadamente rápida."},
+    {"criatura": "Basilisco", "derrotado_por": None, "capturada": "Cadmo", "descripcion": "Serpiente legendaria cuya mirada es mortal."},
+    {"criatura": "Jabalí de Erimanto", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Jabalí gigante que causaba destrucción en Erimanto."},
+    {"criatura": "Sirenas", "derrotado_por": None, "capturada": "Odiseo", "descripcion": "Seres que atraían marineros con su canto hasta naufragar."},
+    {"criatura": "Cerbero", "derrotado_por": None, "capturada": "Heracles", "descripcion": "Perro de tres cabezas que guarda el inframundo."}
+]
+
+
+
+    
